@@ -19,6 +19,9 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "env": {
+    "webextensions": true
+},
   "browserslist": {
     "production": [
       ">0.2%",

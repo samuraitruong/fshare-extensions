@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  min-width: 500px;
+  min-height: 300px;
+  background-color: #333;
+  padding:30px;
+  color:#fff;
 }
 
 .App-logo {
@@ -26,6 +31,9 @@
 
 .App-link {
   color: #61dafb;
+}
+textarea{
+  width: 100%;
 }
 
 @keyframes App-logo-spin {
