@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Reference
 https://developer.chrome.com/extensions
+## Installation
 
 ## Available Scripts
 
